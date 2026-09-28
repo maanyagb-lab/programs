@@ -21,3 +21,6 @@ The goal of this repository is to:
 - Build a reference collection of useful programs
 
   #This is a personal learning repository
+
+Maanya Bhat
+1st year Btech CSE
